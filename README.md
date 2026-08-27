@@ -37,7 +37,7 @@ template/
 ├── SCHEMA.md           # ⭐ 核心契约（AI 必读）
 ├── 出稿SOP.md          # 通用 6 步出稿流程
 ├── wiki-index.md       # 总目录
-└── skills/             # 可带的 skill（如标题策略师）
+└── skills/             # 内置 3 个 skill：活人感写作 / 标题策略师 / 公众号排版
 ```
 
 ## 给别的老师 / 项目定制
